@@ -1,0 +1,11 @@
+C:\Users\adity\source\repos\BottomNavBar\BottomNavBar\BottomNavBar\bin\Debug\netstandard2.0\BottomNavBar.deps.json
+C:\Users\adity\source\repos\BottomNavBar\BottomNavBar\BottomNavBar\bin\Debug\netstandard2.0\BottomNavBar.dll
+C:\Users\adity\source\repos\BottomNavBar\BottomNavBar\BottomNavBar\bin\Debug\netstandard2.0\BottomNavBar.pdb
+C:\Users\adity\source\repos\BottomNavBar\BottomNavBar\BottomNavBar\obj\Debug\netstandard2.0\BottomNavBar.csproj.CoreCompileInputs.cache
+C:\Users\adity\source\repos\BottomNavBar\BottomNavBar\BottomNavBar\obj\Debug\netstandard2.0\BottomNavBar.App.xaml.g.cs
+C:\Users\adity\source\repos\BottomNavBar\BottomNavBar\BottomNavBar\obj\Debug\netstandard2.0\BottomNavBar.MainPage.xaml.g.cs
+C:\Users\adity\source\repos\BottomNavBar\BottomNavBar\BottomNavBar\obj\Debug\netstandard2.0\BottomNavBar.AssemblyInfoInputs.cache
+C:\Users\adity\source\repos\BottomNavBar\BottomNavBar\BottomNavBar\obj\Debug\netstandard2.0\BottomNavBar.AssemblyInfo.cs
+C:\Users\adity\source\repos\BottomNavBar\BottomNavBar\BottomNavBar\obj\Debug\netstandard2.0\BottomNavBar.dll
+C:\Users\adity\source\repos\BottomNavBar\BottomNavBar\BottomNavBar\obj\Debug\netstandard2.0\BottomNavBar.pdb
+C:\Users\adity\source\repos\BottomNavBar\BottomNavBar\BottomNavBar\obj\Debug\netstandard2.0\BottomNavBar.csprojResolveAssemblyReference.cache
